@@ -27,5 +27,11 @@ go run .
 Pour lancer les tests, ouvrir un terminal dans un répertoire contenant des fichiers au format *fichier_test.go*. 
 
 Exécuter l'une des commandes suivantes : 
-- Lancer les tests unitaires : `go test`
-- Lancer le benchmark d'une fonction : `go test -bench=HandleNewPlayer`
+- Lancer les tests unitaires : 
+```go
+go test
+```
+- Lancer le benchmark d'une fonction :
+```go
+go test -bench=HandleNewPlayer
+```
