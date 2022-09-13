@@ -13,10 +13,14 @@ Le projet est décomposé en deux parties distinctes.
 ## Démarrage
 
 - En se plaçant à la racine du répertoire *API_Go*, ouvrir un terminal et lancer la commande :
-`go run .`
+```go
+go run .
+```
 
 - En se plaçant à la racine du répertoire *Mock_Blockchain_GO*, ouvrir un terminal et lancer la commande :
-`go run .`
+```go
+go run .
+```
 
 ## Tests
 
