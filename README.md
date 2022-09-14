@@ -26,7 +26,7 @@ go run .
 
 Pour utiliser le service il faut contacter l'API_Go en utilisant un outil comme *Postman* ou *Rester*. Voici le type de requête à faire :
 
-![image](https://user-images.githubusercontent.com/62239442/189850121-9809af76-0936-4f8c-a04a-40e8695b785f.png)
+![image](https://user-images.githubusercontent.com/62239442/190095932-9aebf4c4-729b-4aa4-a7c1-579b595ba1ce.png)
 
 ## Tests
 
